@@ -1,0 +1,10 @@
+
+1) Create EC2 instance and access from Putyy
+2) Install docker on EC2 Instance
+3) Install Kubernetes on EC2
+4) Create S3 bucket and access from EC2 (Not sure0
+5) IAM , Users , Policys  ...
+6) How to use AWS managed monitoring tools
+7) Install Jenkins on AWS EC2
+8) Create EC2 using Terraform and AWS cloudformation ( Not sure0
+9) 
